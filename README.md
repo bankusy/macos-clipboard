@@ -33,7 +33,7 @@ chmod +x clipboard_logger.sh
 
 - Uses `pbpaste` to read the current clipboard content
 - Compares with last recorded content
-- If changed, logs the content with a timestamp to `clipboard_log.txt` in your home directory
+- If changed, logs the content with a timestamp to "$HOME/clipboard_log.txt"
 - Checks every 5 seconds (adjustable in the script)
 
 
