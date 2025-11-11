@@ -14,17 +14,17 @@ The script runs in the background, checking the clipboard every few seconds. Whe
 
 ## Usage
 
-1. Save the script to a file, e.g., `clipboard_logger.sh`
+1. Save the script to a file, e.g., `clipboard.sh`
 2. Make it executable:
 
 ```bash
-chmod +x clipboard_logger.sh
+chmod +x clipboard.sh
 ```
 
 3. Run the script:
 
 ```bash
-./clipboard_logger.sh
+./clipboard.sh
 ```
 
 4. To stop, press `Ctrl+C`
